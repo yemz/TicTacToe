@@ -11,3 +11,10 @@ User Stories:
 5. Players can't select an already taken number.
 6. Players can't select a number less than 0 or greater than 9.
 
+
+![alt text](https://raw.githubusercontent.com/yemz/TicTacToe/master/images/TicTacToe1.png)
+![alt text](https://raw.githubusercontent.com/yemz/TicTacToe/master/images/TicTacToe3.png)
+![alt text](https://raw.githubusercontent.com/yemz/TicTacToe/master/images/TicTacToe5.png)
+![alt text](https://raw.githubusercontent.com/yemz/TicTacToe/master/images/TicTacToe6.png)
+![alt text](https://raw.githubusercontent.com/yemz/TicTacToe/master/images/TicTacToe2.png)
+![alt text](https://raw.githubusercontent.com/yemz/TicTacToe/master/images/TicTacToe4.png)
