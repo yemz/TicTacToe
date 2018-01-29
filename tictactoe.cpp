@@ -7,13 +7,13 @@
 
 using namespace std;
 
-   // Constructor
-   TicTacToe::TicTacToe() {
-     // Initialize variables
-     player = 1;
-     counter = 1;
-     num = 1;
-   }
+// Constructor
+TicTacToe::TicTacToe() {
+   // Initialize variables
+   player = 1;
+   counter = 1;
+   num = 1;
+}
 
 void TicTacToe::gameBoard() {
   // Function to display board
@@ -96,7 +96,7 @@ void TicTacToe::playGame() {
                   getch(); //pause
                   counter++;
           }
-} // End humanGame
+} // End playGame
 
 bool TicTacToe::winner() {
   // All winning possibilities
